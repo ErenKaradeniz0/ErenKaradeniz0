@@ -7,6 +7,10 @@
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" alt="HTML5" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JS" height="40" style="vertical-align:top; margin:4px">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">
+<img src="" alt="" height="40" style="vertical-align:top; margin:4px">
+
 </p>
 
 
