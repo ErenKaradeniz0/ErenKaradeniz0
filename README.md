@@ -6,6 +6,11 @@
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JS" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px"></p>
+<img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" height="40" style="vertical-align:top; margin:4px"></p>
+<img src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt=".NET Core" height="40" style="vertical-align:top; margin:4px">
+<img src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="php" height="40" style="vertical-align:top; margin:4px">
+</p>
+
 
 
   
