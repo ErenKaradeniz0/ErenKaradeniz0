@@ -27,6 +27,5 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erenkaradeniz0&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=erenkaradeniz0&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erenkaradeniz0&theme=tokyonight)
