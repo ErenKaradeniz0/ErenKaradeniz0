@@ -1,6 +1,11 @@
 ## 👋 Hi, I'm Eren! 
 
-I am a driven Computer Engineer with a strong passion for software development. I am constantly improving my skills through hands-on projects and real-world applications.
+I am a driven Computer Engineer with a strong passion for software development. I am constantly improving my skills through hands-on projects and real-world applications, with a focus on full-stack web development, machine learning, and AI.   
+
+You can find more about me here:  
+[My Portfolio Page](https://erenkaradeniz0.github.io/)  
+[LinkedIn](https://www.linkedin.com/in/eren-karadeniz/)  
+[Send me Mail!](mailto:erenkaradeniz011@gmail.com)  
 
 ### 💻 Tech Stack
 
